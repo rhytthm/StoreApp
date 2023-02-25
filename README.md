@@ -1,7 +1,7 @@
 # StoreApp
 made a store app powered by FaakeStore API
+
+## Screenshots
 ![image](https://user-images.githubusercontent.com/50865136/221350957-0ab92155-d230-4042-aa93-dd763113bbc9.png)
 
-<img src="" width="100" height="100">
-
-<img src="https://your-image-url.type](https://user-images.githubusercontent.com/50865136/221350987-acd62b99-bee9-4c20-ba9c-da01a0fcb59b.png" width="200" height="200">
+![simulator_screenshot_F90BB63A-9EA5-4F34-81AB-EBAE48A45BC9](https://user-images.githubusercontent.com/50865136/221351194-e2fd0b43-819c-4b17-a64b-dbda704067a2.png)
